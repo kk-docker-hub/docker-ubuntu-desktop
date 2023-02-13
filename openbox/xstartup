@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Run Gnome desktop
+openbox-session &
+gnome-panel &
+xfdesktop &
